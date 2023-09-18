@@ -23,6 +23,18 @@
 
 
 <h3 align="left">Support:</h3>
+
+
+
+
+
+
+
+
+
+
+
+
 <p><a href="https://www.buymeacoffee.com/Saurav-Gongale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Saurav-Gongale" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav-gongale&show_icons=true&locale=en&layout=compact" alt="saurav-gongale" /></p>
@@ -30,5 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-gongale&show_icons=true&locale=en" alt="saurav-gongale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-gongale&" alt="saurav-gongale" /></p>
-![](https://github-contributor-stats.vercel.app/api?username=Saurav-Gongale&limit=5&theme=flat&combime_all_yearly_contributions=true)
-![Snake animation](https://github.com/Saurav-Gongale/Saurav-Gongale/blob/output/github-contributions-grid-snake.svg)
+
